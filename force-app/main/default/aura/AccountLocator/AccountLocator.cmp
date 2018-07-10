@@ -2,7 +2,7 @@
 
 	<div>
 		<div>
-			AccountMap goes here
+			<c:AccountMap/>
 		</div>
 		<div>
 			<c:AccountList/>
